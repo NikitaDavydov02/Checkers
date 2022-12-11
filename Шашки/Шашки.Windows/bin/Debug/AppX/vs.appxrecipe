@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NIKITA</Machine>
+    <WindowsUser>nikit</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>28263b99-5660-43ed-8505-e8748deeb2a1</PackageIdentityName>
+    <PackageIdentityPublisher>CN=nikit</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>EC2B2BBB894B7874700D04A3625572A44EB3DA38C26ACBA01289B495E87CE5BA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>28263b99-5660-43ed-8505-e8748deeb2a1_1.0.0.0_neutral__e0czjm4dkbe7e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>28263b99-5660-43ed-8505-e8748deeb2a1_e0czjm4dkbe7e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>28263b99-5660-43ed-8505-e8748deeb2a1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=nikit</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-10T13:54:11.235</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\bin\Debug\Шашки.Windows.exe">
+      <PackagePath>Шашки.Windows.exe</PackagePath>
+      <Modified>2019-08-26T09:45:43.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\Assets\ChessFieldGreen.png">
+      <PackagePath>Assets\ChessFieldGreen.png</PackagePath>
+      <Modified>2017-11-10T13:38:06.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:16:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:16:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:16:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:16:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\Assets\WhiteUsual.png">
+      <PackagePath>Assets\WhiteUsual.png</PackagePath>
+      <Modified>2017-11-10T13:54:05.610</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\bin\Debug\Шашки.Windows.xr.xml">
+      <PackagePath>Шашки.Windows.xr.xml</PackagePath>
+      <Modified>2017-11-10T13:59:14.144</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-11-10T13:35:17.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-11-10T13:59:14.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\bin\Debug\View\CheckerControl.xbf">
+      <PackagePath>View\CheckerControl.xbf</PackagePath>
+      <Modified>2017-11-10T13:59:14.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\bin\Debug\View\TwoPlayers.xbf">
+      <PackagePath>View\TwoPlayers.xbf</PackagePath>
+      <Modified>2017-11-10T13:59:14.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\bin\Debug\View\TwoPlayersSettingsPage.xbf">
+      <PackagePath>View\TwoPlayersSettingsPage.xbf</PackagePath>
+      <Modified>2017-11-10T13:59:14.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-11-10T13:54:11.138</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

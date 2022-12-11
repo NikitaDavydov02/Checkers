@@ -1,0 +1,1 @@
+D:\Документы\C# нужное\Шашки\Шашки\Шашки.Windows\Шашки.Windows.csproj;neutral
